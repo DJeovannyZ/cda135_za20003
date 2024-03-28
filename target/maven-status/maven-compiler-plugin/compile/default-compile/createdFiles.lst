@@ -1,0 +1,12 @@
+sv/edu/ues/Variable.class
+sv/edu/ues/implementations/GaussSeidelEj1.class
+sv/edu/ues/implementations/JacobiEj2.class
+sv/edu/ues/view/ViewResult.class
+sv/edu/ues/methods/GaussSeidel2x2.class
+sv/edu/ues/Util.class
+sv/edu/ues/implementations/GaussSeidelEj2.class
+sv/edu/ues/App.class
+sv/edu/ues/methods/Jacobi3x3.class
+sv/edu/ues/methods/Jacobi2x2.class
+sv/edu/ues/methods/GaussSeidel3x3.class
+sv/edu/ues/implementations/JacobiEj1.class
